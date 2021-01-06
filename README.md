@@ -23,3 +23,4 @@ Regarding the research questions and material, we propose the following technica
 4. Use Altir to visualize the research results.
 ### analytical approach
 Since the question came up several times: under 'analytical approach,' we refer to the theoretical approaches that inform your way forward. We advise you to choose an approach that was / will be discussed in the seminar and can be backed by academic literature, e.g. mapping controversy (Marres and Moats 2015), discoursive practice theory (Pentzold and Menke 2020; Jones et al. 2015), Grounded Theory (Charmaz 2006) or the (online) civic cultures framework (Uldam and Askanius 2013).
+我个人想法：首先第一步将多个视频的评论汇总起来一起分析。第二步按时间线分析，并给出观众的情感变化以及词云的变化（small multiples），进而可以知道环保少女做了这一系列的努力之后，究竟是不是得到了积极的结果？或者在她某一次激进的演讲过后，恶评数陡增？（猜想）    
