@@ -28,4 +28,4 @@ In general, we will use the following three approaches to filter out the irrelat
 
 2. The affirmative mode: YouTube filters popular comments and sorts them according to the number of likes and dislikes, which allows us to filter out valuable information simply and directly. And comments with a large number of responses are usually more controversial arguments. And these replies not only debate existing arguments but also generate new arguments, which expands the scope of discussion.
 
-3. The empirical approach: We should also do the same towards the comments with less than (maybe) 1 word, 3 letters. This will help filter interfering signals like 'gg' or 'wow'.
+3. The empirical approach: We should also do the same towards the comments with less than (maybe) 3 letters. This will help filter interfering signals like 'gg' or 'wow'.
